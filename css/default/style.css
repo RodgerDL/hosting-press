@@ -126,7 +126,7 @@ button:hover {
   text-transform: uppercase;
 }
 .page_header .breadcrumb li {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
 }
 .page_header .breadcrumb li + li:before {
@@ -165,7 +165,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   line-height: 1;
   letter-spacing: 1px;
@@ -174,7 +174,7 @@ h6 {
   margin: 0;
 }
 p {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   color: #443a44;
   letter-spacing: 1px;
@@ -210,13 +210,13 @@ p {
 .accordion .panel .panel-heading .panel-title a,
 .faqs_accordion .panel .panel-heading .panel-title a {
   line-height: 46px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   color: #443a44;
   letter-spacing: 1px;
 }
 .accordion .panel .panel-heading .panel-title a:before,
 .faqs_accordion .panel .panel-heading .panel-title a:before {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 18px;
   line-height: 10px;
   height: 10px;
@@ -240,7 +240,7 @@ p {
 .faqs_accordion .panel .panel-collapse .panel-body {
   border: none;
   padding: 15px 35px 25px 50px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   color: #443a44;
   letter-spacing: 1px;
@@ -294,7 +294,7 @@ p {
 }
 .faqs_accordion .panel .media .media-left {
   padding: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   font-size: 24px;
   color: #267ae9;
@@ -308,7 +308,7 @@ p {
 .alert {
   border-radius: 0;
   border: none;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   line-height: 20px;
   color: #fff;
   padding: 13px 15px;
@@ -355,7 +355,7 @@ p {
   text-transform: uppercase;
   width: 117px;
   line-height: 40px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   color: #443a44;
   letter-spacing: 1px;
@@ -370,7 +370,7 @@ p {
 .btn {
   color: #fff;
   letter-spacing: 1px;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   display: inline-block;
@@ -423,7 +423,7 @@ p {
   color: #443a44;
   border-radius: 0;
   border: none;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -461,7 +461,7 @@ p {
   padding-left: 0;
 }
 .hostpressUnList li {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   color: #443a44;
   line-height: 20px;
@@ -483,7 +483,7 @@ p {
   counter-reset: custom-counter;
 }
 .hostpressOlList li {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   color: #443a44;
   line-height: 20px;
@@ -504,7 +504,7 @@ p {
   padding: 0 20px;
   line-height: 35px;
   background: #f1f6f8;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   color: #443a44;
   margin-bottom: 5px;
@@ -533,7 +533,7 @@ p {
   height: 42px;
   line-height: 42px;
   padding: 0 15px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   color: #443a44;
 }
@@ -541,7 +541,7 @@ p {
   background: #f7f7f7;
   color: #443a44;
   font-weight: 300;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   padding: 0 15px;
 }
 .form-control > .btn .filter-option {
@@ -559,7 +559,7 @@ textarea.form-control {
 .checkbox input + label,
 .radio input + label {
   padding-left: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 400;
   color: #443a44;
   text-transform: uppercase;
@@ -608,7 +608,7 @@ textarea.form-control {
   display: inline-block;
 }
 .fluid_header .navbar-nav.navbar-left li a {
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   line-height: 76px;
   padding: 0;
   color: #19506d;
@@ -635,7 +635,7 @@ textarea.form-control {
   background-image: none;
   background-color: #fff;
   text-transform: uppercase;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
 }
 .fluid_header .navbar-nav.navbar-right li a:hover,
 .fluid_header .navbar-nav.navbar-right li a:focus {
@@ -690,7 +690,7 @@ textarea.form-control {
   float: left;
 }
 .fluid_header .navbar-nav.navbar-right li.dropdown.mega-drop .mega-menu li.service_list {
-  width: calc( 100% - 274px);
+/* width: calc( 100% - 274px); */
   padding: 30px 0 30px 34px;
 }
 .fluid_header .navbar-nav.navbar-right li.dropdown.mega-drop .mega-menu li.service_list .service {
@@ -720,7 +720,7 @@ textarea.form-control {
   line-height: 1;
   color: #443a44;
   margin-bottom: 7px;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   display: inline-block;
 }
@@ -758,7 +758,7 @@ textarea.form-control {
 .fluid_header .navbar-nav.navbar-right li.dropdown.mega-drop .mega-menu li.start_offer .inner .title {
   margin: 0;
   color: #4dbdfe;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   font-size: 24px;
   line-height: 1;
@@ -768,7 +768,7 @@ textarea.form-control {
   color: #fff;
   line-height: 1;
   margin-bottom: 0;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
 }
 .fluid_header .navbar-nav.navbar-right li.dropdown.mega-drop .mega-menu li.start_offer .inner .offered_price small {
@@ -778,14 +778,14 @@ textarea.form-control {
   color: #4dbdfe;
   margin-top: 0;
   margin-bottom: 18px;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
 }
 .fluid_header .navbar-nav.navbar-right li.dropdown.mega-drop .mega-menu li.start_offer .inner .regular_price small {
   color: #4dbdfe;
 }
 .fluid_header .navbar-nav.navbar-right li.dropdown.mega-drop .mega-menu li.start_offer .inner .btn {
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   text-shadow: none;
   border-radius: 0;
@@ -831,7 +831,7 @@ textarea.form-control {
 }
 .top_header .wc_msg {
   color: #4a4a4a;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   text-transform: uppercase;
   font-size: 12px;
 }
@@ -844,7 +844,7 @@ textarea.form-control {
 }
 .top_header .nav li a {
   padding: 0;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 14px;
   color: #4a4a4a;
   text-transform: uppercase;
@@ -888,7 +888,7 @@ footer .top_footer .quick_contact .nav li + li {
 footer .top_footer .quick_contact .nav li a {
   line-height: 56px;
   font-size: 18px;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   color: #fff;
   text-transform: uppercase;
@@ -913,7 +913,7 @@ footer .top_footer .shortKnowledge h4 {
   text-transform: uppercase;
   color: #FFF;
   font-weight: 500;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
 }
 footer .top_footer .shortKnowledge p {
   color: #595f7c;
@@ -934,7 +934,7 @@ footer .top_footer .shortKnowledge .product .product_list li:nth-child(3) {
 }
 footer .top_footer .shortKnowledge .product .product_list li a {
   line-height: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   float: left;
   color: #595f7c;
   padding: 0;
@@ -969,7 +969,7 @@ footer .top_footer .beInContact .country_select button {
   box-shadow: none;
   padding: 0;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 500;
   color: #fff;
   letter-spacing: 1px;
@@ -1000,7 +1000,7 @@ footer .top_footer .beInContact .country_select .dropdown-menu {
 footer .top_footer .beInContact .country_select .dropdown-menu li a {
   text-transform: uppercase;
   color: #fff;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 14px;
   padding: 0 15px;
   line-height: 24px;
@@ -1044,7 +1044,7 @@ footer .top_footer .beInContact .subscribe_form .form-inline .form-group label {
   text-transform: uppercase;
   margin-bottom: 0;
   color: #fff;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   font-size: 18px;
   line-height: 21px;
@@ -1074,7 +1074,7 @@ footer .top_footer .beInContact .subscribe_form .form-inline .form-group .input-
   border: none;
   color: #454d75;
   font-size: 13px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
 }
 footer .top_footer .beInContact .subscribe_form .form-inline .form-group .input-group .input-group-addon {
@@ -1088,7 +1088,7 @@ footer .top_footer .beInContact .subscribe_form .form-inline .form-group .input-
   text-transform: uppercase;
   font-size: 18px;
   font-weight: bold;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   color: #fff;
   padding: 0 20px;
   line-height: 45px;
@@ -1107,7 +1107,7 @@ footer .copyright_line {
   padding: 25px 0;
   background: #090d20;
   color: #595f7c;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   letter-spacing: 1px;
   font-size: 13px;
@@ -1127,7 +1127,7 @@ footer .copyright_line {
   padding: 45px 57px;
   text-align: left;
   display: block;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 600;
   color: #443a44;
   line-height: 21px;
@@ -1173,14 +1173,14 @@ footer .copyright_line {
 }
 .serviceTab .serviceTab_contents .tab-content .tab-pane .title {
   text-transform: uppercase;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   line-height: 1;
   margin: 110px 0 20px;
   color: #443a44;
 }
 .serviceTab .serviceTab_contents .tab-content .tab-pane p {
   color: #443a44;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   line-height: 24px;
   margin-bottom: 40px;
@@ -1205,7 +1205,7 @@ footer .copyright_line {
   width: 119px;
   height: 119px;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   font-size: 36px;
   line-height: 1;
@@ -1302,7 +1302,7 @@ footer .copyright_line {
   width: 119px;
   height: 119px;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   font-size: 36px;
   line-height: 1;
@@ -1325,7 +1325,7 @@ footer .copyright_line {
   padding-top: 25px;
 }
 .service_tabs_list .service_tab .content h3 {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 100;
   font-size: 48px;
   margin-bottom: 30px;
@@ -1400,7 +1400,7 @@ footer .copyright_line {
   margin-bottom: 25px;
   font-size: 48px;
   font-weight: 100;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   color: #267ae9;
 }
 .error_msg p {
@@ -1577,7 +1577,7 @@ footer .copyright_line {
   padding-top: 50px;
 }
 .pricing_plan .owl-item .item .plan .price {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   line-height: 1;
   color: #267ae9;
@@ -1600,7 +1600,7 @@ footer .copyright_line {
 .pricing_plan .owl-item .item .plan .serviceType h4 {
   line-height: 42px;
   margin: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   font-size: 12px;
   color: #080808;
@@ -1695,7 +1695,7 @@ footer .copyright_line {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f5f5f5', endColorstr='#ffffff', GradientType=0);
 }
 .price_plan .inner .plan_intro .price {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   line-height: 1;
   color: #267ae9;
@@ -1718,7 +1718,7 @@ footer .copyright_line {
 .price_plan .inner .plan_intro .planType h4 {
   line-height: 42px;
   margin: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 500;
   font-size: 12px;
   color: #080808;
@@ -1737,7 +1737,7 @@ footer .copyright_line {
 .price_plan .inner .service_provide_row .service_provide li {
   line-height: 49px;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -1804,7 +1804,7 @@ footer .copyright_line {
   color: #fff;
   text-transform: uppercase;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   letter-spacing: 1px;
   border-bottom: 42px solid #267ae9;
@@ -1822,7 +1822,7 @@ footer .copyright_line {
   background: #2985f8;
 }
 .pricing_slider_row .pricing_slider .owl-item .item .price {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   line-height: 1;
   color: #267ae9;
@@ -1854,7 +1854,7 @@ footer .copyright_line {
 }
 .pricing_slider_row .pricing_slider .owl-item .item .short_note {
   color: #443a44;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   line-height: 24px;
   padding: 20px 43px 30px;
@@ -1892,7 +1892,7 @@ footer .copyright_line {
   border-radius: 0;
   text-transform: uppercase;
   color: #443a44;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   line-height: 60px;
   padding: 0 15px;
@@ -1921,7 +1921,7 @@ footer .copyright_line {
   border: none;
   padding: 0 42px;
   line-height: 60px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   color: #7b9196;
 }
 .pricing_list_table tbody {
@@ -1931,7 +1931,7 @@ footer .copyright_line {
   border: none;
   padding: 0 42px;
   line-height: 60px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   color: #443a44;
 }
 .pricing_list_table tbody tr td {
@@ -1939,7 +1939,7 @@ footer .copyright_line {
   padding: 0;
   line-height: 60px;
   padding: 0 42px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   color: #443a44;
 }
 .pricing_plan_table {
@@ -1960,7 +1960,7 @@ footer .copyright_line {
   background: #589ffd;
   color: #fff;
   text-transform: uppercase;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
@@ -2000,11 +2000,11 @@ footer .copyright_line {
   font-size: 18px;
   text-transform: uppercase;
   font-weight: bold;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   letter-spacing: 1px;
 }
 .pricing_plan_cell .pricing_row .price {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   line-height: 1;
   color: #267ae9;
@@ -2043,7 +2043,7 @@ footer .copyright_line {
 }
 .pricing_plan_cell .nav li {
   border-bottom: 1px solid #ecf3f6;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   color: #443a44;
 }
@@ -2071,12 +2071,12 @@ footer .copyright_line {
 .facts .fact {
   text-align: center;
   text-transform: uppercase;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   font-size: 16px;
 }
 .facts .fact strong {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   font-size: 36px;
   color: #080808;
@@ -2138,7 +2138,7 @@ footer .copyright_line {
   position: absolute;
   top: 60px;
   left: -45px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   font-size: 30px;
   color: #443a44;
@@ -2152,7 +2152,7 @@ footer .copyright_line {
 }
 .testimonial_slider .item .slide .content .quote p,
 .testimonial_slider2 .item .slide .content .quote p {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   line-height: 24px;
   margin-bottom: 0;
@@ -2293,7 +2293,7 @@ footer .copyright_line {
 }
 .blog .blog_infos li a {
   color: #267ae9;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   letter-spacing: .5px;
   line-height: 14px;
@@ -2334,7 +2334,7 @@ footer .copyright_line {
   letter-spacing: 1px;
   color: #443a44;
   font-weight: 500;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 17px;
   line-height: 28px;
 }
@@ -2343,7 +2343,7 @@ footer .copyright_line {
   letter-spacing: 1px;
   color: #443a44;
   font-weight: bold;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   margin-top: 20px;
 }
 .blog + hr {
@@ -2372,7 +2372,7 @@ footer .copyright_line {
   text-transform: uppercase;
   border: none;
   background: #f1f6f8;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   font-size: 12px;
   letter-spacing: 1px;
@@ -2385,7 +2385,7 @@ footer .copyright_line {
 .pagination_nav .pagination li:first-child a,
 .pagination_nav .pagination li:last-child a {
   border-radius: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 15px;
 }
 .single-blog {
@@ -2412,7 +2412,7 @@ footer .copyright_line {
   left: 0;
   background: #267ae9;
   color: #FFF;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 15px;
   font-weight: 300;
   text-transform: uppercase;
@@ -2444,7 +2444,7 @@ footer .copyright_line {
 }
 .single-blog .blog .quote_row blockquote p {
   font-size: 16px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   font-style: italic;
   letter-spacing: 0;
@@ -2494,7 +2494,7 @@ footer .copyright_line {
   color: #4f5660;
   border-left: 1px solid #d5dae2;
   text-transform: lowercase;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 500;
 }
 .find_domain .domain_search .input-group .input-group-addon .searchFilters .btn i {
@@ -2514,7 +2514,7 @@ footer .copyright_line {
   color: #4f5660;
   border-top: 1px solid #d5dae2;
   text-transform: lowercase;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 500;
   line-height: 35px;
   padding: 0 25px;
@@ -2528,7 +2528,7 @@ footer .copyright_line {
   padding: 0 35px;
   background: #42b6ff;
   color: #fff;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -2541,7 +2541,7 @@ footer .copyright_line {
 .find_domain .domain_search .price_list li {
   padding: 0 35px;
   color: #fff;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   line-height: 33px;
@@ -2584,7 +2584,7 @@ footer .copyright_line {
   top: calc(50% - 95px);
 }
 .find_domain.find_domain3 .find_domain_cover .container .row h2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   font-size: 60px;
   color: #fff;
@@ -2593,7 +2593,7 @@ footer .copyright_line {
   margin-bottom: 10px;
 }
 .find_domain.find_domain3 .find_domain_cover .container .row p {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   font-size: 16px;
   color: #9d9ea7;
@@ -2696,7 +2696,7 @@ footer .copyright_line {
   line-height: 42px;
   padding: 0 15px;
   font-weight: 300;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   letter-spacing: 1px;
   color: #443a44;
   background: #f1f6f8;
@@ -2727,7 +2727,7 @@ footer .copyright_line {
 }
 .categories_list li a,
 .archives_list li a {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   color: #443a44;
   letter-spacing: 1px;
@@ -2765,7 +2765,7 @@ footer .copyright_line {
 }
 .recent_posts .post .media-body .date {
   color: #acacac;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -2803,7 +2803,7 @@ footer .copyright_line {
 }
 .related_posts .post .date {
   color: #acacac;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -2821,7 +2821,7 @@ footer .copyright_line {
   padding: 0;
   border-radius: 0;
   border: none;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 500;
   letter-spacing: 1px;
   color: #267ae9;
@@ -2835,7 +2835,7 @@ footer .copyright_line {
 }
 .pager li .post_title {
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 500;
   color: #443a44;
   line-height: 1;
@@ -2879,7 +2879,7 @@ footer .copyright_line {
 }
 .post_author .media-body p {
   color: #FFF;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 100;
   font-size: 15px;
   letter-spacing: 1px;
@@ -2891,7 +2891,7 @@ footer .copyright_line {
 }
 .post_author .media-body .nav li a {
   padding: 0;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 16px;
   color: #fff;
   text-transform: uppercase;
@@ -2944,7 +2944,7 @@ footer .copyright_line {
 .comment .media-body .nav li a {
   padding: 0 10px;
   color: #267ae9;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   font-size: 12px;
   line-height: 12px;
@@ -2957,7 +2957,7 @@ footer .copyright_line {
   font-weight: 300;
 }
 .comment .media-body .btn {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   font-size: 12px;
   text-transform: uppercase;
@@ -2987,7 +2987,7 @@ footer .copyright_line {
 }
 .contact_banner h2 {
   color: #fff;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 36px;
   line-height: 40px;
   margin: 15px 0;
@@ -2997,7 +2997,7 @@ footer .copyright_line {
   margin-right: 15px;
 }
 .contact_banner p {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.7);
   line-height: 1.857;
@@ -3027,7 +3027,7 @@ footer .copyright_line {
   margin-bottom: 18px;
   font-size: 48px;
   color: #267ae9;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   line-height: 1;
 }
@@ -3078,7 +3078,7 @@ footer .copyright_line {
 }
 .contact_content .form_row .detail_address .media .media-body {
   padding-top: 5px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   font-size: 18px;
   color: #443a44;
@@ -3090,7 +3090,7 @@ footer .copyright_line {
 }
 .contact_content .form_row .detail_address .media .media-body .nav li a {
   padding: 0;
-  font-family: 'Lato', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 16px;
   color: #4a4a4a;
   text-transform: uppercase;
@@ -3159,7 +3159,7 @@ footer .copyright_line {
   position: absolute;
   top: 0;
   left: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 18px;
   font-weight: 300;
   width: 100%;
@@ -3198,7 +3198,7 @@ footer .copyright_line {
   padding: 12px;
   text-align: left;
   display: block;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 600;
   color: #443a44;
   line-height: 21px;
@@ -3244,7 +3244,7 @@ footer .copyright_line {
   width: 127px;
   text-align: center;
   font-size: 24px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   color: #267ae9;
   line-height: 1;
@@ -3307,7 +3307,7 @@ footer .copyright_line {
 }
 .home_slider .item .slide_caption h2 {
   font-size: 65px;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 100;
   color: #fff;
   letter-spacing: 1px;
@@ -3316,7 +3316,7 @@ footer .copyright_line {
 }
 .home_slider .item .slide_caption p {
   color: rgba(255, 255, 255, 0.8);
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-size: 16px;
   font-weight: 300;
   line-height: 30px;
@@ -3374,7 +3374,7 @@ footer .copyright_line {
   font-size: 16px;
   font-weight: 300;
   color: #fff;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   line-height: 1;
   margin-bottom: 5px;
 }
@@ -3426,7 +3426,7 @@ footer .copyright_line {
   background: #fff;
   border: none;
   color: #443a44;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   line-height: 21px;
@@ -3468,7 +3468,7 @@ footer .copyright_line {
 }
 #home_slider3 .carousel-inner .item .carousel-caption .container .media .media-body h4 {
   color: #080808;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: bold;
   line-height: 1;
   letter-spacing: 0.1px;
@@ -3476,7 +3476,7 @@ footer .copyright_line {
   margin-top: 0;
 }
 #home_slider3 .carousel-inner .item .carousel-caption .container .media .media-body h2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 100;
   font-size: 65px;
   line-height: 60px;
@@ -3484,7 +3484,7 @@ footer .copyright_line {
   margin: 0 0 15px;
 }
 #home_slider3 .carousel-inner .item .carousel-caption .container .media .media-body p {
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 300;
   color: #9d9ea7;
   font-size: 16px;
@@ -3605,7 +3605,7 @@ footer .copyright_line {
   height: 103px;
   text-align: left;
   display: block;
-  font-family: 'Roboto', sans-serif;
+  font-family: '微软雅黑', sans-serif;
   font-weight: 600;
   color: #443a44;
   line-height: 21px;
