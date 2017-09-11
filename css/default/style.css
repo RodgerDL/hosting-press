@@ -1137,6 +1137,7 @@ footer .copyright_line {
   border-top: none;
   cursor: pointer;
   background: #f9f9f9;
+  height: 132px;
 }
 .serviceTab .service_tab_menu .nav li a:before {
   content: '';
@@ -1163,6 +1164,7 @@ footer .copyright_line {
 .serviceTab .service_tab_menu .nav li + li a {
   border-left-color: transparent;
 }
+
 .serviceTab .service_tab_menu .nav li.active a {
   border-bottom-color: #fff;
   border-top: none;
