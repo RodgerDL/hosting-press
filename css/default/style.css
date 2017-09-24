@@ -3295,8 +3295,9 @@ footer .copyright_line {
 }
 .home_slider .item {
   max-height: 797px;
-  text-align: center;
-  background: #000000;
+  /* remove below style for the feature slider*/
+  /*text-align: center;*/
+  /*background: #000000;*/
   overflow: hidden;
 }
 .home_slider .item img {
@@ -3643,7 +3644,8 @@ footer .copyright_line {
   height: 10px;
 }
 .featureTab .feature_tab_menu .nav li:nth-child(1) a,
-.featureTab .feature_tab_menu .nav li:nth-child(2) a {
+.featureTab .feature_tab_menu .nav li:nth-child(2) a,
+.featureTab .feature_tab_menu .nav li:nth-child(3) a{
   line-height: 47px;
 }
 .featureTab .feature_tab_menu .nav li.active a {

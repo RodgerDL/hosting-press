@@ -8,8 +8,7 @@
         /*  Preloader
         /*----------------------------------------------------*/
         $(".preloader").fadeOut();
-        
-        
+
         /*----------------------------------------------------*/
         /*  Main Slider
         /*----------------------------------------------------*/
@@ -25,14 +24,15 @@
               ],
             items: 1
         });
-        
-        
-        /*----------------------------------------------------*/
-        /*  Find Domain Form Dropdown
-        /*----------------------------------------------------*/
-        $('.domain_search_drop').on("click",function(){
-            $(this).toggleClass('rotate')
-        });
+
+        // $(window).trigger('resize');
+
+        // /*----------------------------------------------------*/
+        // /*  Find Domain Form Dropdown
+        // /*----------------------------------------------------*/
+        // $('.domain_search_drop').on("click",function(){
+        //     $(this).toggleClass('rotate')
+        // });
         
 		  /*----------------------------------------------------*/
         /*  Fix Navigation
@@ -133,17 +133,6 @@
         });
         
         /*----------------------------------------------------*/
-        /*  Domain Search Filter
-        /*----------------------------------------------------*/        
-        $('.searchFilters .dropdown-menu').find('a').click(function(e) {
-            e.preventDefault();
-            var param = $(this).attr("href").replace("#","");
-            var concept = $(this).text();
-            $('.searchFilters span#searchFilterValue').text(concept);
-            $('.input-group #search_param').val(param)
-        });
-        
-        /*----------------------------------------------------*/
         /*  Counter Up - Fun Facts
         /*----------------------------------------------------*/
         $('.fact strong').counterUp({
@@ -178,9 +167,7 @@
         $('.portfolio-link').magnificPopup({
             type: 'image'
         });
-        
-        
-        
+
         /*----------------------------------------------------*/
         /*  Contact Form Height
         /*----------------------------------------------------*/
@@ -194,3 +181,4 @@
     })
     
 })(jQuery)
+
