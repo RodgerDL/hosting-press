@@ -3608,10 +3608,11 @@ footer .copyright_line {
   border-radius: 0;
   padding: 27px 49px;
   height: 103px;
-  text-align: left;
+  text-align: center;
   display: block;
   font-family: '微软雅黑', sans-serif;
   font-weight: 600;
+  font-size: 1.6rem;
   color: #443a44;
   line-height: 21px;
   text-transform: uppercase;
@@ -3644,9 +3645,7 @@ footer .copyright_line {
 .featureTab .feature_tab_menu .nav li a:focus:before {
   height: 10px;
 }
-.featureTab .feature_tab_menu .nav li:nth-child(1) a,
-.featureTab .feature_tab_menu .nav li:nth-child(2) a,
-.featureTab .feature_tab_menu .nav li:nth-child(3) a{
+.featureTab .feature_tab_menu .nav li a{
   line-height: 47px;
 }
 .featureTab .feature_tab_menu .nav li.active a {
