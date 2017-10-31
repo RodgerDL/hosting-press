@@ -391,6 +391,9 @@ p {
 .btn.btn-primary:hover {
   background: #104b99;
 }
+.btn.btn-primary a {
+  color: #FFFFFF;
+}
 .btn.btn-secondary {
   background: #909090;
 }
